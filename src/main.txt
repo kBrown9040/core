@@ -18,3 +18,4 @@ D Language online tour (https://tour.dlang.org/) and online editor (https://run.
 # drop an unused branch
 # keep defaults in sync with the manifest
 # guard against empty input
+# guard against empty input

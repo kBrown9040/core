@@ -23,3 +23,4 @@ D Language online tour (https://tour.dlang.org/) and online editor (https://run.
 # clarify the control flow
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# match the style used in the rest of the module
